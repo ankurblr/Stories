@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Authors>
+  <Author>
+    <Name>D.H. Lawrence</Name>
+    <Bio>He is a English writer and novelist.</Bio>
+    <ImageUrl></ImageUrl>
+    <ShortStories>
+      <ShortStory>
+        <Name>The Railway Children</Name>
+        <FileName>lawrencedhother07tickets_pleasertf.rtf</FileName>
+        <Read>False</Read>
+      </ShortStory>
+    </ShortStories>
+  </Author>
+  <Author>
+    <Name>Rudyard Kipling</Name>
+    <Bio>He is a English writer and novelist.</Bio>
+    <ImageUrl></ImageUrl>
+    <ShortStories>
+      <ShortStory>
+        <Name>An Habitation Enforced</Name>
+        <FileName>lawrencedhother07tickets_pleasertf.rtf</FileName>
+        <Read>False</Read>
+      </ShortStory>
+      <ShortStory>
+        <Name>An Habitation Enforced</Name>
+        <FileName>lawrencedhother07tickets_pleasertf.rtf</FileName>
+        <Read>False</Read>
+      </ShortStory>
+      <ShortStory>
+        <Name>An Habitation Enforced</Name>
+        <FileName>lawrencedhother07tickets_pleasertf.rtf</FileName>
+        <Read>False</Read>
+      </ShortStory>
+      <ShortStory>
+        <Name>An Habitation Enforced</Name>
+        <FileName>lawrencedhother07tickets_pleasertf.rtf</FileName>
+        <Read>False</Read>
+      </ShortStory>
+      <ShortStory>
+        <Name>An Habitation Enforced</Name>
+        <FileName>lawrencedhother07tickets_pleasertf.rtf</FileName>
+        <Read>False</Read>
+      </ShortStory>
+      <ShortStory>
+        <Name>An Habitation Enforced</Name>
+        <FileName>lawrencedhother07tickets_pleasertf.rtf</FileName>
+        <Read>False</Read>
+      </ShortStory>
+      <ShortStory>
+        <Name>An Habitation Enforced</Name>
+        <FileName>lawrencedhother07tickets_pleasertf.rtf</FileName>
+        <Read>False</Read>
+      </ShortStory>
+      <ShortStory>
+        <Name>An Habitation Enforced</Name>
+        <FileName>lawrencedhother07tickets_pleasertf.rtf</FileName>
+        <Read>False</Read>
+      </ShortStory>
+    </ShortStories>
+  </Author>
+</Authors>
